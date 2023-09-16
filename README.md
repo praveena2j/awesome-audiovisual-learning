@@ -755,6 +755,13 @@ Intelligent Networks and Network Security
 <br>
 **Institution:** Texas A&M University; New York Institute of Technology
 
+**[IEEE FG-2021]**
+[Cross Attentional Audio-Visual Fusion for Dimensional Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9667055)
+<br>
+**Authors:** R Gnana Praveen, Eric Granger, Patrick Cardinal 
+<br>
+**Institution:** Ecole de technologie supérieure
+
 **[IEEE T-BIOM-2023]**
 [Audio-Visual Fusion for Emotion Recognition in the Valence-Arousal Space Using Joint Cross-Attention](https://ieeexplore.ieee.org/document/10005783)
 <br>
